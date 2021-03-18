@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-07T15:49:44 UTC" name="Default suite" finished-at="2021-02-07T15:50:25 UTC" duration-ms="40402">
+    <groups>
+    </groups>
+    <test started-at="2021-02-07T15:49:44 UTC" name="Default test" finished-at="2021-02-07T15:50:25 UTC" duration-ms="40402">
+      <class name="com.stackroot.spicejet.MultiCity">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.stackroot.spicejet.MultiCity@20d28811]" started-at="2021-02-07T15:49:44 UTC" name="init" finished-at="2021-02-07T15:50:00 UTC" duration-ms="15205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyLoginTest01([Ljava.lang.String;)[pri:0, instance:com.stackroot.spicejet.MultiCity@20d28811]" started-at="2021-02-07T15:50:01 UTC" name="verifyLoginTest01" data-provider="testData" finished-at="2021-02-07T15:50:25 UTC" duration-ms="24081" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3bd3d05e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest01 -->
+      </class> <!-- com.stackroot.spicejet.MultiCity -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
